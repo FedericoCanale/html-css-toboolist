@@ -13,7 +13,7 @@
 }
 
 body {
-  background-color: #acaaaa; 
+  background-color: #f6f8f9; 
   margin: 0;                 
   padding: 0; 
   font-family:Arial, Helvetica, sans-serif
@@ -46,6 +46,7 @@ padding-top: 20px;
 padding-bottom: 20px;
 border-bottom-left-radius: 12px;
 border-bottom-right-radius: 12px;
+margin-bottom: 20px;
 
 }
 
