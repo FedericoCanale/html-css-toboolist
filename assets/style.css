@@ -1,0 +1,13 @@
+.logo {
+    height: 100px;
+    vertical-align: middle;
+}
+
+.logotext {
+    vertical-align: middle;
+    color: rgb(0, 0, 0);
+    font-size: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
